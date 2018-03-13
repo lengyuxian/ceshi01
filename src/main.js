@@ -2,7 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Mint from 'mint-ui';
 import store from './store'
-
+//***********测试用***************
 import VueResource from 'vue-resource'
 import 'mint-ui/lib/style.css'
 import 'assets/css/common.css'
